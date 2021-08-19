@@ -2,7 +2,9 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "dependencies": {
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.15.0",
